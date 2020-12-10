@@ -23,8 +23,13 @@ Drag and drop **my-app** onto your **Applications** folder. Click on my-app and 
 
 ----------
 If accessing the packaged version via google drive, go to:
+https://drive.google.com/file/d/1x4HytpJAKDbuVzIZs0nfaQOX3Xyp68Wa/view?usp=sharing 
+
+Path: 
 
                    App -> dist -> click on my-app-0.1.0.dmg (if on a mac!). 
+                   
+
                    
 1. The app will start to download. 
 2. Drag and drop the app to your Applications folder. 
