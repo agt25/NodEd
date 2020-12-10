@@ -3,7 +3,7 @@
 
 My project is on Github and can be accessed by clicking: https://github.com/agt25/NodEd 
 
-Once there, click on the green button labeled 'code' and scroll down to 'Download zip'. 
+In my NodEd repository, click on the green button labeled **code** and scroll down to **Download zip** 
 
 The packaged version is not uploaded to Github. For the 'dist' folder, as well as to access the entire zip folder of my project, redirect to: https://drive.google.com/drive/folders/1H_jby8IwdX6lvzDSKEQwgAjksc3Lu8NB?usp=sharing 
 
@@ -20,6 +20,20 @@ Inside **App** (the folder!) you will find a folder called **dist**. Click insid
 Alternatively, you can install by clicking *my-app-0.1.0.dmg* inside the **dist**  folder. 
 
 Drag and drop **my-app** onto your **Applications** folder. Click on my-app and NodEd will start! 
+
+----------
+If accessing the packaged version via google drive, go to App -> dist -> click on my-app-0.1.0.dmg (if on a mac!). 
+1. The app will start to download. 
+2. Drag and drop the app to your Applications folder. 
+
+If seeing a warning pop-up such as "my-app.app" cannot be opened because the developer cannot be verified:
+1. Exit out of the warning sign.
+2. Go to your OS's settings (system preferences on macOS). 
+3. Click on "Security & Privacy".
+4. Navigate to the left-most option: "General"
+5. Below **Allow apps downloaded from:** you should see a message *(e.g., my-app.app was blocked from use because it is not from an identified developer)*
+6. Click on **Open Anyway** 
+7. If NodEd does not start on its own, click on my-app.app again, and the the program should run. 
 
 
 
