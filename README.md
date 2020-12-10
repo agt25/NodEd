@@ -1,19 +1,20 @@
 # NodEd
 
+NodEd is a desktop note-taking app which syncs and saves your notes on the cloud. 
 
-My project is on Github and can be accessed by clicking: https://github.com/agt25/NodEd 
 
-The packaged version is not uploaded to Github. For the 'dist' folder, as well as to access the entire zip folder of my project, redirect to: https://drive.google.com/drive/folders/1H_jby8IwdX6lvzDSKEQwgAjksc3Lu8NB?usp=sharing 
 
 Presentation: https://youtu.be/uDTibRx1sQM
 
-NodEd is a desktop note-taking app which syncs and saves your notes on the cloud. 
+My project is on Github and can be accessed by clicking: https://github.com/agt25/NodEd 
+
+
 
 ## How to Save from Github 
 
 1. On your preferred IDE or text-editor, run: 
 
-            git clone https://github.com/agt25/NodEd.git
+       git clone https://github.com/agt25/NodEd.git
 
 2. Change directories via ```cd NodEd``` & ```cd App```
 
@@ -28,8 +29,8 @@ If you prefer to run the source code, drag and drop the entire **NodEd** folder 
 1. On the terminal, cd into App via ```cd App``` 
 2. Run either ```yarn install```or ```npm install``` to install the project's dependencies. 
 3. Run ```yarn start``` to get the app running. 
-    - Ta-da! The NodEd app appears! 
-    
+   - Ta-da! The NodEd app appears! 
+
 4. Run ```yarn build``` to package the app. 
 
 
@@ -43,14 +44,16 @@ https://drive.google.com/file/d/1x4HytpJAKDbuVzIZs0nfaQOX3Xyp68Wa/view?usp=shari
 Path: 
 
                    App -> dist -> click on my-app-0.1.0.dmg (if on a mac!). 
-                   
 
-                   
+
+​                   
+
 1. The app will start to download. 
 2. Drag and drop the app to your Applications folder. 
 
 
 If seeing a warning pop-up such as "my-app.app" cannot be opened because the developer cannot be verified:
+
 1. Exit out of the warning sign.
 2. Go to your OS's settings (system preferences on macOS). 
 3. Click on "Security & Privacy".
