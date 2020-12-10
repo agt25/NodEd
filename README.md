@@ -6,7 +6,6 @@ My project is on Github and can be accessed by clicking: https://github.com/agt2
 
 Presentation: https://youtu.be/uDTibRx1sQM
 
-<img width="1505" alt="3" src="https://user-images.githubusercontent.com/57548500/101725619-f83d7680-3a7e-11eb-9b0b-f6eac06d3f8e.png">
 <img width="1300" alt="2" src="https://user-images.githubusercontent.com/57548500/101725390-93821c00-3a7e-11eb-9be0-c8568dbb6554.png">
 
 ## How to Save from Github 
@@ -74,3 +73,5 @@ There's a one second delay, after your last keystroke, before your notes save to
 As explained on DESIGN.md, I did not implement users. Therefore, do not input sensitive information, even if only testing the app. You are, however, free to write all about how great this program is. Compliments about the programmer are also accepted. 
 
 I believe I've included all the information you need to get everything running. Do not hesitate to reach out via email if you're having trouble along the way. 
+
+<img width="1505" alt="3" src="https://user-images.githubusercontent.com/57548500/101725619-f83d7680-3a7e-11eb-9b0b-f6eac06d3f8e.png">
