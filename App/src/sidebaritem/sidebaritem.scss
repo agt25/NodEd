@@ -1,0 +1,56 @@
+.listItem {
+    cursor: pointer;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    
+
+}
+
+.listItemText {
+    text-overflow: ellipsis;
+    
+   
+}
+
+.textSection {
+    max-width: 80%;
+    text-overflow: ellipsis;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+}
+
+
+
+.deleteIcon {
+    position: absolute;
+    right: 5px;
+    top: calc(50% - 10px);
+    width: 22px;
+    
+    
+       
+}
+
+.trash {
+    opacity: 80%;
+    overflow: hidden;
+}
+
+
+.MuiListItemText-primary {
+    text-overflow: ellipsis;
+    overflow-wrap: break-word;
+    
+    
+}
+
+.MuiTypography-body1 {
+    color: lightslategray;
+    text-overflow: ellipsis;
+    overflow-wrap: break-word;
+    overflow: hidden;
+    font-stretch: condensed;
+   
+   
+}
