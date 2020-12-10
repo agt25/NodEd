@@ -1,0 +1,12 @@
+directories:
+  output: dist
+  buildResources: assets
+appId: com.example.electron-cra
+extends: null
+icon: ./appIcon.png
+files:
+  - filter:
+      - ./build/**/*
+      - node_modules/**/*
+      - ./public/main.js
+electronVersion: 6.0.11
