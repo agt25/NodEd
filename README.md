@@ -22,9 +22,13 @@ Alternatively, you can install by clicking *my-app-0.1.0.dmg* inside the **dist*
 Drag and drop **my-app** onto your **Applications** folder. Click on my-app and NodEd will start! 
 
 ----------
-If accessing the packaged version via google drive, go to App -> dist -> click on my-app-0.1.0.dmg (if on a mac!). 
+If accessing the packaged version via google drive, go to:
+
+                   App -> dist -> click on my-app-0.1.0.dmg (if on a mac!). 
+                   
 1. The app will start to download. 
 2. Drag and drop the app to your Applications folder. 
+
 
 If seeing a warning pop-up such as "my-app.app" cannot be opened because the developer cannot be verified:
 1. Exit out of the warning sign.
