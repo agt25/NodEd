@@ -61,7 +61,9 @@ Path:
 7. If NodEd does not start on its own, click on my-app.app again, and the the program should run. 
 
                                                
-
+                                               
+<img width="1817" alt="9" src="https://user-images.githubusercontent.com/57548500/101727177-004ae580-3a82-11eb-9b71-ca9a38e9fd2c.png">                                               
+                                               
 
 
 #### Oddities? 
@@ -76,5 +78,6 @@ As explained on DESIGN.md, I did not implement users. Therefore, do not input se
 
 I believe I've included all the information you need to get everything running. Do not hesitate to reach out via email if you're having trouble along the way. 
 
-<img width="1817" alt="9" src="https://user-images.githubusercontent.com/57548500/101727177-004ae580-3a82-11eb-9b71-ca9a38e9fd2c.png">
+
+
 
