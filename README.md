@@ -50,7 +50,7 @@ Path:
 2. Drag and drop the app to your Applications folder. 
 
 
-If seeing a warning pop-up such as "my-app.app" cannot be opened because the developer cannot be verified:
+   If seeing a warning pop-up such as "my-app.app" cannot be opened because the developer cannot be verified:
 
 1. Exit out of the warning sign.
 2. Go to your OS's settings (system preferences on macOS). 
