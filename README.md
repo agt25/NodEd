@@ -3,26 +3,40 @@
 
 My project is on Github and can be accessed by clicking: https://github.com/agt25/NodEd 
 
-In my NodEd repository, click on the green button labeled **code** and scroll down to **Download zip** 
-
 The packaged version is not uploaded to Github. For the 'dist' folder, as well as to access the entire zip folder of my project, redirect to: https://drive.google.com/drive/folders/1H_jby8IwdX6lvzDSKEQwgAjksc3Lu8NB?usp=sharing 
 
 Presentation: https://youtu.be/uDTibRx1sQM
 
 NodEd is a desktop note-taking app which syncs and saves your notes on the cloud. 
 
+## How to Save from Github 
+
+1. On your preferred IDE or text-editor, run: 
+
+            ```git clone https://github.com/agt25/NodEd.git```
+
+2. Change directories via ```cd NodEd``` & ```cd App```
+
+
 ## How To Run 
+
+### Source Code 
+
+If you prefer to run the source code, drag and drop the entire **NodEd** folder inside your preferred IDE or text editor. 
+
+1. On the terminal, cd into App via ```cd App``` 
+2. Run either ```yarn install```or ```npm install``` to install the project's dependencies. 
+3. Run ```yarn start``` to get the app running. 
+    - Ta-da! The NodEd app appears! 
+    
+4. Run ```yarn build``` to package the app. 
+
+
 
 ### Packaged Distribution 
 
-Inside **App** (the folder!) you will find a folder called **dist**. Click inside and navigate to the **mac** folder if on a mac. Inside you'll find NodEd.app. Click on it and the app will run! 
+The packaged app can only be accessed via Google Drive. 
 
-Alternatively, you can install by clicking *my-app-0.1.0.dmg* inside the **dist**  folder. 
-
-Drag and drop **my-app** onto your **Applications** folder. Click on my-app and NodEd will start! 
-
-----------
-If accessing the packaged version via google drive, go to:
 https://drive.google.com/file/d/1x4HytpJAKDbuVzIZs0nfaQOX3Xyp68Wa/view?usp=sharing 
 
 Path: 
@@ -43,17 +57,6 @@ If seeing a warning pop-up such as "my-app.app" cannot be opened because the dev
 5. Below **Allow apps downloaded from:** you should see a message *(e.g., my-app.app was blocked from use because it is not from an identified developer)*
 6. Click on **Open Anyway** 
 7. If NodEd does not start on its own, click on my-app.app again, and the the program should run. 
-
-
-
-### Source Code 
-
-If you prefer to run the source code, drag and drop the entire **NodEd** folder inside your preferred IDE or text editor. 
-
-1. On the terminal, cd into App via ```cd App``` 
-2. Run either ```yarn install```or ```npm install``` to install the project's dependencies. 
-3. Run ```yarn start``` to get the app running. 
-4. Run ```yarn build``` to package the app. 
 
 
 
