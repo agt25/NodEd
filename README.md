@@ -1,9 +1,11 @@
 # NodEd
 
 
-My project is on Github and can be accessed by clicking:                      
+My project is on Github and can be accessed by clicking: https://github.com/agt25/NodEd 
 
-Once there, 
+Once there, click on the green button labeled 'code' and scroll down to 'Download zip'. 
+
+The packaged version is not uploaded to Github. For the 'dist' folder, as well as to access the entire zip folder of my project, redirect to: https://drive.google.com/drive/folders/1H_jby8IwdX6lvzDSKEQwgAjksc3Lu8NB?usp=sharing 
 
 Presentation: https://youtu.be/uDTibRx1sQM
 
