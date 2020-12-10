@@ -62,6 +62,10 @@ If seeing a warning pop-up such as "my-app.app" cannot be opened because the dev
 
 
 
+<img width="1859" alt="7" src="https://user-images.githubusercontent.com/57548500/101726090-dbee0980-3a7f-11eb-832d-cf7184099110.png">
+
+
+
 #### Oddities? 
 
 You'll notice that the left-most side navigational bar is a placeholder of sorts. It is not a bug that folders do not work. The feature was not my priority. Read DESIGN.md for more on the thought process! 
