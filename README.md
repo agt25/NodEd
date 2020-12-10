@@ -1,4 +1,4 @@
-# NodEd
+# NodEd  :partying_face:
 
 NodEd is a desktop note-taking app which syncs and saves your notes on the cloud. 
 
