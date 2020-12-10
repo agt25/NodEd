@@ -78,4 +78,3 @@ As explained on DESIGN.md, I did not implement users. Therefore, do not input se
 
 I believe I've included all the information you need to get everything running. Do not hesitate to reach out via email if you're having trouble along the way. 
 
-<img width="1505" alt="3" src="https://user-images.githubusercontent.com/57548500/101725619-f83d7680-3a7e-11eb-9b0b-f6eac06d3f8e.png">
