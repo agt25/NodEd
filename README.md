@@ -60,8 +60,6 @@ Path:
 6. Click on **Open Anyway** 
 7. If NodEd does not start on its own, click on my-app.app again, and the the program should run. 
 
-
-
 <img width="1859" alt="7" src="https://user-images.githubusercontent.com/57548500/101726090-dbee0980-3a7f-11eb-832d-cf7184099110.png">
 
 
