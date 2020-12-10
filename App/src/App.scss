@@ -1,0 +1,73 @@
+* {
+  margin: 0; 
+  padding: 0;
+  overflow-wrap: break-word;
+}
+#noded-container {
+    display: flex; 
+    justify-items: center;
+    height: 100vh;
+    width: auto;
+    overflow: hidden;
+    column-fill: auto;
+    flex-direction: column;
+}
+.app-container {
+    display: flex; 
+    align-items: center;
+    justify-items: center;
+    height: 100vh;
+    width: auto;
+    column-fill: auto;
+    overflow: hidden;
+    
+}
+.MuiListItem-root .Mui-selected {
+  background-color: blue !important;
+  text-overflow: ellipsis;
+
+}
+.Mui-selected {
+  justify-content: flex-start;
+  color: blue;
+  background: blue;
+
+}
+.deleteIcon {
+  color: lightblue;
+ 
+}
+.deleteIcon2 {
+  color: red;
+}
+.MuiListItem-gutters {
+  color: darkslategray;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+.MuiListItemText-root {
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+.MuiListItem-root {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  overflow-wrap: break-word;
+}
+
+.MuiListItem-container {
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+.textSection {
+  text-overflow: ellipsis;
+  
+}
+.no-note-selected {
+  font-size: 25px;
+  position: absolute;
+  top: 50px;
+  text-overflow: ellipsis;
+  
+}
