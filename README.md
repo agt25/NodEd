@@ -13,7 +13,7 @@ NodEd is a desktop note-taking app which syncs and saves your notes on the cloud
 
 1. On your preferred IDE or text-editor, run: 
 
-            ```git clone https://github.com/agt25/NodEd.git```
+            git clone https://github.com/agt25/NodEd.git
 
 2. Change directories via ```cd NodEd``` & ```cd App```
 
@@ -23,6 +23,7 @@ NodEd is a desktop note-taking app which syncs and saves your notes on the cloud
 ### Source Code 
 
 If you prefer to run the source code, drag and drop the entire **NodEd** folder inside your preferred IDE or text editor. 
+
 
 1. On the terminal, cd into App via ```cd App``` 
 2. Run either ```yarn install```or ```npm install``` to install the project's dependencies. 
