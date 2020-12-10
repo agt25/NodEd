@@ -8,7 +8,7 @@ Presentation: https://youtu.be/uDTibRx1sQM
 
 My project is on Github and can be accessed by clicking: https://github.com/agt25/NodEd 
 
-
+<img width="1300" alt="2" src="https://user-images.githubusercontent.com/57548500/101725390-93821c00-3a7e-11eb-9be0-c8568dbb6554.png">
 
 ## How to Save from Github 
 
