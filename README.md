@@ -62,9 +62,6 @@ Path:
 
                                                
 
-<img width="1817" alt="9" src="https://user-images.githubusercontent.com/57548500/101727177-004ae580-3a82-11eb-9b71-ca9a38e9fd2c.png">
-
-
 
 
 #### Oddities? 
@@ -78,4 +75,6 @@ There's a one second delay, after your last keystroke, before your notes save to
 As explained on DESIGN.md, I did not implement users. Therefore, do not input sensitive information, even if only testing the app. You are, however, free to write all about how great this program is. Compliments about the programmer are also accepted. 
 
 I believe I've included all the information you need to get everything running. Do not hesitate to reach out via email if you're having trouble along the way. 
+
+<img width="1817" alt="9" src="https://user-images.githubusercontent.com/57548500/101727177-004ae580-3a82-11eb-9b71-ca9a38e9fd2c.png">
 
