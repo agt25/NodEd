@@ -44,8 +44,6 @@ If you prefer to run the source code, drag and drop the entire **NodEd** folder 
 
 The packaged app can only be accessed via Google Drive. 
 
-https://drive.google.com/file/d/1x4HytpJAKDbuVzIZs0nfaQOX3Xyp68Wa/view?usp=sharing 
-
 Path: 
 
                    App -> dist -> click on my-app-0.1.0.dmg (if on a mac!). 
