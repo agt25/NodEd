@@ -5,13 +5,15 @@ NodEd is a desktop note-taking app which syncs and saves your notes on the cloud
 
 Presentation: https://youtu.be/uDTibRx1sQM
 
+<img width="1776" alt="NodEd App Preview" src="https://user-images.githubusercontent.com/57548500/101727531-a72f8180-3a82-11eb-998b-aa921325ed07.png">
+
+
 #### Update: 21 December, 2020
 
 NodEd was my CS50 final project. Version 1 is no longer open-source. NodEd v2 is being developed. The app will include some unique features not found in Google Docs, Microsoft Words, Typora, Jupyter Notebooks, or the likes. The mission is to make the program “the only note-taking app you’ll ever need,” where users from all domains find the tools they seek (and more!) in NodEd. 
 
 If you need the v1 source code, whether for use, to add to, or gather ideas from, reach out to ant124@g.harvard.edu. Also, feel free to email if interested in collaborating on v2. 
 
-<img width="1776" alt="NodEd App Preview" src="https://user-images.githubusercontent.com/57548500/101727531-a72f8180-3a82-11eb-998b-aa921325ed07.png">
 
 ## How to Save from Github 
 
