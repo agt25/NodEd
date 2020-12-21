@@ -64,7 +64,10 @@ Path:
 
 #### Oddities? 
 
-The NodEd v1 app is no longer open-source. The above steps are valid commands for running v2.  
+The NodEd v1 app is no longer open-source. The steps above are valid commands for running v2.  
+
+
+
 
 
 
