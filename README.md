@@ -10,9 +10,10 @@ Presentation: https://youtu.be/uDTibRx1sQM
 
 #### Update: 21 December, 2020
 
-NodEd was my CS50 final project. Version 1 is no longer open-source. 
+NodEd was my CS50 final project. Version 1 is no longer open-source.   
 NodEd v2 is being developed. The app will include some unique features not found in Google Docs, Microsoft Word, Typora, Jupyter Notebooks, or the likes. 
-The mission is to make the program “the only note-taking app you’ll ever need,” where users from all domains find the tools they seek (and more!) in NodEd. 
+
+<p align="center"> The mission is to make the program “the only note-taking app you’ll ever need,” where users from all domains find the tools they seek (and more!) in NodEd. </p>
 
 >If you need the v1 source code, whether for use, to add to, or gather ideas from, reach out to ant124@g.harvard.edu. Also, feel free to email if interested in collaborating on v2. 
 
